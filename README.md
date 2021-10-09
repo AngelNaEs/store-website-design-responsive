@@ -5,8 +5,8 @@ Este proyecto fue creado para un proyecto en la carrera.
 Puedes usar el codigo pero editar todos los archivos.
 
 [![Nessvista1.png](https://i.postimg.cc/L5QWG8Bz/Nessvista1.png)](https://postimg.cc/CnDJqY21)
-<a href="https://postimg.cc/CZPvycDF" target="_blank"><img src="https://i.postimg.cc/CZPvycDF/Nessvista2.png" alt="Nessvista2"/></a><br/><br/>
-<a href="https://postimg.cc/DJSx71d1" target="_blank"><img src="https://i.postimg.cc/DJSx71d1/Nessvista3.png" alt="Nessvista3"/></a><br/><br/>
-<a href="https://postimg.cc/vcfS1LRz" target="_blank"><img src="https://i.postimg.cc/vcfS1LRz/Nessvista4.png" alt="Nessvista4"/></a><br/><br/>
-<a href="https://postimg.cc/5jZRNKry" target="_blank"><img src="https://i.postimg.cc/5jZRNKry/Nessvista5.png" alt="Nessvista5"/></a><br/><br/>
+[![Nessvista2.png](https://i.postimg.cc/rmc7rbwt/Nessvista2.png)](https://postimg.cc/CZPvycDF)
+[![Nessvista3.png](https://i.postimg.cc/mDwJNwPp/Nessvista3.png)](https://postimg.cc/DJSx71d1)
+[![Nessvista4.png](https://i.postimg.cc/15jxjJJL/Nessvista4.png)](https://postimg.cc/vcfS1LRz)
+[![Nessvista5.png](https://i.postimg.cc/RVF5djQ7/Nessvista5.png)](https://postimg.cc/5jZRNKry)
 
